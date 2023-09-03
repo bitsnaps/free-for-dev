@@ -1074,6 +1074,7 @@ This list is the result of Pull Requests, reviews, ideas and work done by 1100+ 
   * [tyk.io](https://tyk.io/) — API management with authentication, quotas, monitoring and analytics. Free cloud offering
   * [zapier.com](https://zapier.com/) — Connect the apps you use, to automate tasks. 5 zaps, every 15 minutes and 100 tasks/month
   * [LeanCloud](https://leancloud.app/) — Mobile backend. 1GB of data storage, 256MB instance, 3K API requests/day, 10K pushes/day are free. (API is very similar to Parse Platform)
+  * [Hop](https://hop.io/) — Fre host for PocketBase, the free tier comes with 1vCPU, 512MB RAM and 3GB disk storage.
 
 **[⬆️ Back to Top](#table-of-contents)**
 
